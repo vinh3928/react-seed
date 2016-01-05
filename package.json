@@ -1,0 +1,25 @@
+{
+  "name": "react-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinh3928/react-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinh3928/react-seed/issues"
+  },
+  "homepage": "https://github.com/vinh3928/react-seed#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "react": "^0.14.5",
+    "watchify": "^3.6.1"
+  }
+}
